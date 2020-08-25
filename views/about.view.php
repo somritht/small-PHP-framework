@@ -6,8 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <?php foreach ($tasks as $key => $value) {
+<h2> About.view.php</h2>
+    <?php 
+    // foreach ($tasks as $key => $value) {
         
-    } ?>
+    // } 
+    ?>
 </body>
 </html>
