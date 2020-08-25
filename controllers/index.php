@@ -1,4 +1,4 @@
 <?php
 
-// $tasks = $database->selectAll('todos');
+$tasks = $database->selectAll('admin');
 require 'views/index.view.php';
